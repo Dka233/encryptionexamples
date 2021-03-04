@@ -2,7 +2,7 @@
 The goal of this repository is to have a collection of encryption examples.
 
 
-To help in the "Cryptography" section of the National cyber League, I collected the answers of the TryHackMe CTF "CTF collection Vol.1" (https://tryhackme.com/room/ctfcollectionvol1) in this repository. You can see the name of the encryption type and how it looks.
+To help in the "Cryptography" section of the National Cyber League, I collected the answers of the TryHackMe CTF "CTF collection Vol.1" (https://tryhackme.com/room/ctfcollectionvol1) in this repository. You can see the name of the encryption type and how it looks.
 
 Also, this is a good source to look how a encryption looks like:
 
